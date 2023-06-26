@@ -65,6 +65,14 @@ I'm excited to share my projects and continue learning and growing in both softw
      ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
      ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
 
+- Version Control and Collaboration Tools:
+    
+     ![TFS](https://img.shields.io/badge/-TFS-5C2D91?logo=azure-devops&logoColor=white)
+     ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+     ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white)
+     ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white)
+     ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+
 In addition to my expertise in programming languages and frameworks such as C++, C#, Java, Python, and more, I have experience working with various AWS and GCP tools.
 
 On the cloud platforms, I'm familiar with the services and tools provided by AWS and GCP. This includes infrastructure management, serverless computing, storage solutions, and more. Leveraging the power of these cloud platforms, I have built and deployed applications, incorporating scalability, security, and reliability.
