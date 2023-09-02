@@ -93,3 +93,5 @@ Connect with me on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/matan-fchima)
 
 Feel free to reach out to me on LinkedIn to connect and stay updated on my latest projects and professional journey.
+
+   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=matanfc.matanfc)
